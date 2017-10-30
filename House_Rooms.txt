@@ -1,0 +1,7 @@
+Count: 3
+Room: Kitchen
+the main kitchen with a table, stove, and a big unreachable knife.
+Room: Master_Bedroom
+a huge master bedroom containing a giant four-poster canopy bed.
+Room: Long_Hallway
+a long hallway with green vines and grapes figured into the wallpaper.
